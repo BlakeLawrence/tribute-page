@@ -1,1 +1,43 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+  background-color: lightgray;
+}
+
+#title {
+  font-family: calibri;
+  max-width: 500px;
+  margin: auto;
+}
+
+#img-div {
+  max-width: 500px;
+  margin: auto;
+}
+
+#main {
+  font-family: calibri;
+  max-width: 700px;
+  margin: auto;
+  padding: 15px;
+}
+
+#img-caption {
+  font-family: calibri;
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#tribute-info {
+  font-family: calibri;
+}
+
+#dave-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
