@@ -9,3 +9,8 @@ Its a simple HTML landing page tribute to anyone we wanted to acknowledge. I hav
 While this is by no means the most impressive project you'll come across, it's one that marked the start of my journey to becoming a junior developer and one I'll always look at with fond memories.
 
 I am incredibly lucky for the opportunities ive been given and every step of my journey is as important to me as the next 🙂
+
+## View it Here
+
+[Dave Grohl Tribute Page](https://dave-grohl-tribute.netlify.app)
+
