@@ -1,24 +1,11 @@
-# README - Learning Journey step 7
 
-## 7.2 - Your Tribute Page
 
-You will now be using git and vscode to:
+## My Tribute Page - Dave Grohl
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+This was one of the requirements towards applying for the School of Code (the bootcamp I greaduated from) - before we had any formal development experience.
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+Its a simple HTML landing page tribute to anyone we wanted to acknowledge. I have always been a fan of the Foo Fighters band and so I decided to create a simple and fun tribute to Dave Grohl, the front man of the band.
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
+While this is by no means the most impressive project you'll come across, it's one that marked the start of my journey to becoming a junior developer and one I'll always look at with fond memories.
 
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
-
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+I am incredibly lucky for the opportunities ive been given and every step of my journey is as important to me as the next 🙂
